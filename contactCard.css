@@ -1,0 +1,26 @@
+#myTable, th, td, tr{
+    border: 5px solid black;
+}
+.txt{
+    display: inline-block;
+}
+.txtA{
+    display: inline-block;
+    height: 15px;
+
+}
+.txtB{
+    display: inline-block;
+    height: 15px;
+
+}
+.txtC{
+    display: inline-block;
+    height: 15px;
+
+}
+.txtD{
+    display: inline-block;
+    height: 15px;
+
+}
